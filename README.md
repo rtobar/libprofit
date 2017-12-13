@@ -10,4 +10,13 @@ The currently supports the following profiles:
 **sersic**, **coresersic**, **moffat**, **ferrer**, **king**, **brokenexp**, **sky** and **psf**.
 With time we intend to add more profiles to the library. Users can also provide their own profiles.
 
+# Installing
+
+In MacOS you can use homebrew:
+
+```
+brew tap rtobar/libprofit https://github.com/rtobar/libprofit
+brew install rtobar/libprofit/libprofit
+```
+
 For more information read [libprofit's documentation](https://libprofit.readthedocs.io/).
